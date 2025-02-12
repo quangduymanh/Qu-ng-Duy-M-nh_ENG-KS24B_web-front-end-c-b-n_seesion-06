@@ -1,0 +1,19 @@
+.enter {
+    text-align: center;
+}
+.submit {
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    width: 100%;
+}
+label {
+    border-radius: 4px;
+}
+.td {
+    border: 2px, solid, gray ;
+}
+.name {
+    margin-left: 5px;
+    margin-right: 5px;
+}
