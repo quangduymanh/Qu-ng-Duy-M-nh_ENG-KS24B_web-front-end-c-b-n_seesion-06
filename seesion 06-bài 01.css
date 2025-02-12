@@ -1,0 +1,22 @@
+.table1 {
+    width: 100%;
+}
+.tablee {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+.first-cell {
+    width: 40%;
+    text-align: right;
+}
+.img {
+    border-radius: 50%;
+    border: 2px, solid,blue;
+}
+.end {
+    background-color:gray;
+    text-align: center;
+    width: 100%;
+}
