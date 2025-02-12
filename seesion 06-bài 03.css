@@ -1,0 +1,47 @@
+.TSUBASA {
+    color: white;
+    background-color: black;
+    width: 100%;
+}
+.home {
+    float: right;
+}
+.first-cell {
+    width: 25%;
+    text-align: right;
+}
+.img {
+    border-radius: 50%;
+    border: 2px solid blue;
+}
+.table1 {
+    width: 100%;
+    background-color: rgb(223, 220, 220);
+}
+.project-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.projects {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.projects button {
+    background-color: rgb(51, 50, 50);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.projects button:hover {
+    opacity: 0.8;
+}
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    background-color: rgb(219, 215, 215);
+    width: 100%;
+}
